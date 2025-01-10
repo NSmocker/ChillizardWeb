@@ -1,9 +1,9 @@
 const cacheName = "SilverEchoGames-Chillizard the Chameleon-0.1.0";
 const contentToCache = [
     "Build/ChillizardWeb.loader.js",
-    "Build/ChillizardWeb.framework.js.unityweb",
-    "Build/ChillizardWeb.data.unityweb",
-    "Build/ChillizardWeb.wasm.unityweb",
+    "Build/ChillizardWeb.framework.js",
+    "Build/ChillizardWeb.data",
+    "Build/ChillizardWeb.wasm",
     "TemplateData/style.css"
 
 ];
